@@ -1,0 +1,14 @@
+C:\Users\Вика\source\repos\anaconda\anaconda\bin\Debug\net8.0\anaconda.exe
+C:\Users\Вика\source\repos\anaconda\anaconda\bin\Debug\net8.0\anaconda.deps.json
+C:\Users\Вика\source\repos\anaconda\anaconda\bin\Debug\net8.0\anaconda.runtimeconfig.json
+C:\Users\Вика\source\repos\anaconda\anaconda\bin\Debug\net8.0\anaconda.dll
+C:\Users\Вика\source\repos\anaconda\anaconda\bin\Debug\net8.0\anaconda.pdb
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.AssemblyInfoInputs.cache
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.AssemblyInfo.cs
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.dll
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\refint\anaconda.dll
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.pdb
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\anaconda.genruntimeconfig.cache
+C:\Users\Вика\source\repos\anaconda\anaconda\obj\Debug\net8.0\ref\anaconda.dll
